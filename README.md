@@ -1,8 +1,7 @@
 # ELECTRIC-MOTOR-TEMPERATURE-PREDICTION
 
+#Run the following command in Anaconda cmd
 
-# Run the following command in Anaconda cmd
+#First head to your project library using cd command
 
-# First head to your project library using cd command
-
-# Streamlit run pm.py
+#Streamlit run pm.py
