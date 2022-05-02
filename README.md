@@ -5,4 +5,4 @@
 
 # First head to your project library using cd command
 
-Streamlit run pm.py
+# Streamlit run pm.py
